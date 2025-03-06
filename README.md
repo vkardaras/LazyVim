@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# My LazyVim configuration for Java Development
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+LazyVim with Java LSP Extra and dap configuration for debugging and running tests
